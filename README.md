@@ -20,7 +20,7 @@ Technologies Used
 Installation
 1. Clone the Repository
 
-git clone <repository-url>
+git clone <[repository-url](https://github.com/rudrabaghel07/P4-Implementation-of-Chatbot-using-NLP)>
 cd <repository-directory>
 
 2. Create a Virtual Environment (Optional but Recommended)
